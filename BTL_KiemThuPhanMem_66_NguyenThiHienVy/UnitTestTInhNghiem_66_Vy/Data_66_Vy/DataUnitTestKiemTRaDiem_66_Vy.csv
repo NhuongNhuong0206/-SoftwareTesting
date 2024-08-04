@@ -1,0 +1,5 @@
+a_66_Vy,b_66_Vy,x_66_Vy,expected_66_Vy,result_66_Vy
+0,0,1,Giá trị 1 thuộc phương trình 0x + 0 = 0,pass
+0,2,2,Giá trị 2 không thuộc phương trình 0x + 2 = 0,pass
+2,-10,5,Giá trị 5 thuộc phương trình 2x + -10 = 0,pass
+1,10,6,Giá trị 6 không thuộc phương trình 1x + 10 = 0,pass

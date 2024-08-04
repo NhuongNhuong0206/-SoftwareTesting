@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL_KiemThuPhanMem_66_NguyenThiHienVy", "BTL_KiemThuPhanMem_66_NguyenThiHienVy\BTL_KiemThuPhanMem_66_NguyenThiHienVy.csproj", "{96796BA2-E9ED-461A-AED6-9EC304459B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTInhNghiem_66_Vy", "UnitTestTInhNghiem_66_Vy\UnitTestTInhNghiem_66_Vy.csproj", "{0CECADD3-874C-441C-9458-89630F6805EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96796BA2-E9ED-461A-AED6-9EC304459B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96796BA2-E9ED-461A-AED6-9EC304459B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96796BA2-E9ED-461A-AED6-9EC304459B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96796BA2-E9ED-461A-AED6-9EC304459B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CECADD3-874C-441C-9458-89630F6805EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CECADD3-874C-441C-9458-89630F6805EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CECADD3-874C-441C-9458-89630F6805EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CECADD3-874C-441C-9458-89630F6805EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4906936-D2C9-4620-B0CD-A3FA83DC54C7}
+	EndGlobalSection
+EndGlobal

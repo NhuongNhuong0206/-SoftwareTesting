@@ -1,0 +1,4 @@
+a_66_Vy,b_66_Vy,expected_66_Vy,result_66_Vy
+2,-10,5,pass
+0,0,"0,001",pass
+0,2,"-0,001",pass
